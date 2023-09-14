@@ -1,0 +1,14 @@
+C:\mocha\helloworld\helloworld\bin\Debug\net6.0\helloworld.exe
+C:\mocha\helloworld\helloworld\bin\Debug\net6.0\helloworld.deps.json
+C:\mocha\helloworld\helloworld\bin\Debug\net6.0\helloworld.runtimeconfig.json
+C:\mocha\helloworld\helloworld\bin\Debug\net6.0\helloworld.dll
+C:\mocha\helloworld\helloworld\bin\Debug\net6.0\helloworld.pdb
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.cs
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.csproj.CoreCompileInputs.cache
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.dll
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\refint\helloworld.dll
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.pdb
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache
+C:\mocha\helloworld\helloworld\obj\Debug\net6.0\ref\helloworld.dll
