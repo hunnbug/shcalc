@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "H:\\CODING\\mocha\\c#\\shcalc\\helloworld\\helloworld\\helloworld.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша H:\\CODING\\mocha\\c#\\shcalc\\helloworld\\helloworld\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

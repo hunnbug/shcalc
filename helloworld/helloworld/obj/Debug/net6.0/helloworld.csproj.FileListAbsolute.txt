@@ -12,3 +12,17 @@ C:\mocha\helloworld\helloworld\obj\Debug\net6.0\refint\helloworld.dll
 C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.pdb
 C:\mocha\helloworld\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache
 C:\mocha\helloworld\helloworld\obj\Debug\net6.0\ref\helloworld.dll
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\bin\Debug\net6.0\helloworld.exe
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\bin\Debug\net6.0\helloworld.deps.json
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\bin\Debug\net6.0\helloworld.runtimeconfig.json
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\bin\Debug\net6.0\helloworld.dll
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\bin\Debug\net6.0\helloworld.pdb
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.cs
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.csproj.CoreCompileInputs.cache
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.dll
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\refint\helloworld.dll
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.pdb
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache
+H:\CODING\mocha\c#\shcalc\helloworld\helloworld\obj\Debug\net6.0\ref\helloworld.dll
