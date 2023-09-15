@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\mocha\\helloworld\\helloworld\\helloworld.csproj": {}
+    "C:\\mocha\\shcalc\\helloworld\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\mocha\\helloworld\\helloworld\\helloworld.csproj": {
+    "C:\\mocha\\shcalc\\helloworld\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\mocha\\helloworld\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\mocha\\shcalc\\helloworld\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\mocha\\helloworld\\helloworld\\helloworld.csproj",
+        "projectPath": "C:\\mocha\\shcalc\\helloworld\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\feldo\\.nuget\\packages\\",
-        "outputPath": "C:\\mocha\\helloworld\\helloworld\\obj\\",
+        "outputPath": "C:\\mocha\\shcalc\\helloworld\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
