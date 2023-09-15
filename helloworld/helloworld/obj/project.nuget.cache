@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rD8qoMxg2cBrB5OkUJ3hMdftrO0tOk+GjPg7k0jbAV3erbrpoRw28J30IlPaxh97wT6qEzPiwWJTfSywPuX7wg==",
+  "dgSpecHash": "XGQPx5S5tpNZp56HlqCwBW2Pch4vxAz+ul+no+9KKInp/8IVTH02A7lh3gNIyPmmWQTG2Zm4EyLRlxWh9JDHxQ==",
   "success": true,
-  "projectFilePath": "C:\\mocha\\helloworld\\helloworld\\helloworld.csproj",
+  "projectFilePath": "H:\\CODING\\mocha\\c#\\shcalc\\helloworld\\helloworld\\helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
